@@ -1,2 +1,2 @@
 # Resume_Giulia
-Portfolio personale statico di Giulia Brix per GitHub Pages
+  https://giuliabrix.github.io/Resume_Giulia/
