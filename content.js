@@ -26,7 +26,7 @@ window.CONTENT = {
   hideRepos: ['Resume_Giulia'],
 
   publications: [
-    {y:2026,a:'Brizzi, G., Romeu-Garcia, A., Rocher, J., & Riva, G.',t:'PRISM Project—Predictive-Processing Reshaping via Immersive Simulated Multisensory Experiences',v:'Cyberpsychology, Behavior, and Social Networking, 0(0)',doi:'https://doi.org/10.1177/21522715261497426',tags:['body', 'cyb']},
+    {y:2026,a:'Brizzi, G., Romeu-Garcia, A., Rocher, J., & Riva, G.',t:'PRISM Project—Predictive-Processing Reshaping via Immersive Simulated Multisensory Experiences',v:'Cyberpsychology, Behavior, and Social Networking, 0(0)',doi:'10.1177/21522715261497426',tags:['body', 'cyb']},
     {y:2026,a:'Felnhofer, A., Schöttler, M., Genovese, L. A., Martinek, D., Pazour, P., Hlavacs, H., Aberle, J. S., Sansoni, M., Invernizzi, A., Erba, M., Brizzi, G., Pizzoli, S. F. M., Riva, G., & Di Lernia, D.',t:'Modulating pain via virtual-reality-based interoceptive modeling: a randomized crossover experiment in an all-female sample',v:'The Journal of Pain, 27(10), 106450',doi:'10.1016/j.jpain.2026.106450',tags:['body']},
     {y:2026,a:'Brizzi, G., Boltri, M., Borsci, S., Chan, R. W., Yildirim, F., Truijen, S., Riva, G., & Scataglini, S.',t:'A multidisciplinary systematic review for the role of digital human models in assessing and treating altered body experience in eating disorders',v:'Computers in Human Behavior Reports, 24, 101360',doi:'10.1016/j.chbr.2026.101360',tags:['ed','body']},
     {y:2026,a:'Sansoni, M., Portingale, J., De Gaspari, S., Brizzi, G., Chorzępa, M., & Riva, G.',t:"Blurring the boundaries of the self: Instagram's impact on bodily identity and multisensory experience among young adults",v:'Computers in Human Behavior, 183',doi:'10.1016/j.chb.2026.109054',tags:['body','cyb']},
